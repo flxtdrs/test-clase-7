@@ -2,3 +2,4 @@
 
 
 Modificaciones de Juan José
+- Johan Javier Trujillo
